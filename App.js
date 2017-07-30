@@ -1,10 +1,10 @@
 import React from 'react'
 import { StackNavigator, DrawerNavigator } from 'react-navigation'
 
-import Home from './Screens/Home'
-import Calculator from './Screens/Calculator'
-import Categories from './Screens/Categories'
-import Results from './Screens/Results' // Triggered by a calculation
+import Home from './screens/Home'
+import Calculator from './screens/Calculator'
+import Categories from './screens/Categories'
+import Results from './screens/Results' // Triggered by a calculation
 
 export default DrawerNavigator({
   Home: { screen: Home },

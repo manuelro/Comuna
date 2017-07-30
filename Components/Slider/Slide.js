@@ -18,8 +18,6 @@ export default class Carousel extends React.Component {
       }
     })
 
-    console.log(this.props.image)
-
     return (
       <View style={styles.slide}>
         <Image style={styles.image} source={this.props.image}>

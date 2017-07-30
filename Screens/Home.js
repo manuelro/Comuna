@@ -1,9 +1,9 @@
 import React from 'react'
 import { StyleSheet, Text, View, ScrollView, Button, StatusBar, Image } from 'react-native'
 
-import Slider from '../Components/Slider'
-import List from '../Components/List'
-import Wrapper from '../Components/Wrapper'
+import Slider from '../components/Slider'
+import List from '../components/List'
+import Wrapper from '../components/Wrapper'
 
 class ListItem {
   constructor(title, subtitle, uri){
