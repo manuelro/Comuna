@@ -706,7 +706,997 @@
           "Provincia": "Guanacaste",
           "Canton": "Liberia",
           "Distrito": "Liberia"
-        }
-      ]
+      }
+],
+
+    "Junio":[
+      {
+          "Delito": "Asalto",
+          "Subdelito": "Arma Blanca",
+          "Fecha": "2016-06-01",
+          "Victima": "Persona",
+          "Subvictima": "Pasajero de Transporte",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "San Jose",
+          "Canton": "San Jose",
+          "Distrito": "Mata Redonda"
+      },
+
+      {
+          "Delito": "Robo de Vehiculo",
+          "Subdelito": "Ardid Previo",
+          "Fecha": "2016-05-05",
+          "Victima": "Vehiculo",
+          "Subvictima": "Motocicleta",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Alajuela",
+          "Canton": "San Ramon",
+          "Distrito": "San Juan"
+      },
+
+      {
+          "Delito": "Asalto",
+          "Subdelito": "Arma Blanca",
+          "Fecha": "2016-06-02",
+          "Victima": "Persona",
+          "Subvictima": "Peaton",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Guanacaste",
+          "Canton": "Liberia",
+          "Distrito": "Liberia"
+      },
+
+      {
+          "Delito": "Asalto",
+          "Subdelito": "Arma de Fuego",
+          "Fecha": "2016-06-04",
+          "Victima": "Persona",
+          "Subvictima": "Indeterminado",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Cartago",
+          "Canton": "La Union",
+          "Distrito": "San Rafael"
+      },
+
+      {
+          "Delito": "Hurto",
+          "Subdelito": "Por Descuido",
+          "Fecha": "2016-06-07",
+          "Victima": "Persona",
+          "Subvictima": "Peaton",
+          "Edad": "Mayor de Edad",
+          "Genero": "Mujer",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "San Jose",
+          "Canton": "Tibas",
+          "Distrito": "San Juan"
+      },
+
+      {
+          "Delito": "Homicidio",
+          "Subdelito": "Discusion",
+          "Fecha": "2016-06-18",
+          "Victima": "Persona",
+          "Subvictima": "Peaton",
+          "Edad": "Desconocido",
+          "Genero": "Hombre",
+          "Nacionalidad": "Nicaragua",
+          "Provincia": "San Jose",
+          "Canton": "Goicoechea",
+          "Distrito": "Guadalupe"
+      },
+
+      {
+          "Delito": "Homicidio",
+          "Subdelito": "Indeterminado",
+          "Fecha": "2016-06-20",
+          "Victima": "Persona",
+          "Subvictima": "Indeterminado",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "San Jose",
+          "Canton": "Santa Ana",
+          "Distrito": "Santa Ana"
+      },
+
+      {
+          "Delito": "Asalto",
+          "Subdelito": "Arrebato",
+          "Fecha": "2016-06-20",
+          "Victima": "Vivienda",
+          "Subvictima": "Indeterminado",
+          "Edad": "Mayor de edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Cartago",
+          "Canton": "Cartago",
+          "Distrito": "San Francisco"
+      },
+
+      {
+          "Delito": "Homicidio",
+          "Subdelito": "Violencia Domestica",
+          "Fecha": "2016-06-21",
+          "Victima": "Persona",
+          "Subvictima": "Indeterminado",
+          "Edad": "Mayor de Edad",
+          "Genero": "Mujer",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "San Jose",
+          "Canton": "San Jose",
+          "Distrito": "Uruca"
+      },
+
+      {
+          "Delito": "Asalto",
+          "Subdelito": "Arma Blanca",
+          "Fecha": "2016-06-28",
+          "Victima": "Persona",
+          "Subvictima": "Peaton",
+          "Edad": "Mayor de Edad",
+          "Genero": "Mujer",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Heredia",
+          "Canton": "Heredia",
+          "Distrito": "Heredia"
+      }
+],
+    "Julio":[
+      {
+          "Delito": "Homicidio",
+          "Subdelito": "Violencia Domestica",
+          "Fecha": "2016-07-01",
+          "Victima": "Persona",
+          "Subvictima": "Indeterminado",
+          "Edad": "Adulto Mayor",
+          "Genero": "Mujer",
+          "Nacionalidad": "Nicaragua",
+          "Provincia": "San Jose",
+          "Canton": "San Jose",
+          "Distrito": "Uruca"
+      },
+
+      {
+          "Delito": "Hurto",
+          "Subdelito": "Ardid Previo",
+          "Fecha": "2016-07-04",
+          "Victima": "Persona",
+          "Subvictima": "Indeterminado",
+          "Edad": "Mayor de Edad",
+          "Genero": "Mujer",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "San Jose",
+          "Canton": "Goicoechea",
+          "Distrito": "Guadalupe"
+      },
+
+      {
+          "Delito": "Hurto",
+          "Subdelito": "Carterista",
+          "Fecha": "2016-07-05",
+          "Victima": "Persona",
+          "Subvictima": "Usuario Servicio Publico",
+          "Edad": "Desconocido",
+          "Genero": "Mujer",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "San Jose",
+          "Canton": "San Jose",
+          "Distrito": "Hospital"
+      },
+
+      {
+          "Delito": "Hurto",
+          "Subdelito": "Carterista",
+          "Fecha": "2016-07-11",
+          "Victima": "Persona",
+          "Subvictima": "Indeterminado",
+          "Edad": "Mayor de Edad",
+          "Genero": "Mujer",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Puntarenas",
+          "Canton": "Corredores",
+          "Distrito": "Canoas"
+      },
+
+      {
+          "Delito": "Hurto",
+          "Subdelito": "Por Confianza",
+          "Fecha": "2016-06-26",
+          "Victima": "Persona",
+          "Subvictima": "Indeterminado",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Cartago",
+          "Canton": "Cartago",
+          "Distrito": "Guadalupe"
+      },
+
+      {
+          "Delito": "Robo",
+          "Subdelito": "Boquete",
+          "Fecha": "2016-07-14",
+          "Victima": "Edificacion",
+          "Subvictima": "Pulperia",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Heredia",
+          "Canton": "Heredia",
+          "Distrito": "Heredia"
+      },
+
+      {
+          "Delito": "Homicidio",
+          "Subdelito": "Indeterminado",
+          "Fecha": "2016-07-28",
+          "Victima": "Persona",
+          "Subvictima": "Peaton",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "San Jose",
+          "Canton": "Santa Ana",
+          "Distrito": "Santa Ana"
+      },
+
+      {
+          "Delito": "Robo",
+          "Subdelito": "Boquete",
+          "Fecha": "2016-07-18",
+          "Victima": "Edificacion",
+          "Subvictima": "Indeterminado",
+          "Edad": "Mayor de edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Cartago",
+          "Canton": "Cartago",
+          "Distrito": "Dulce Nombre"
+      },
+
+      {
+          "Delito": "Robo",
+          "Subdelito": "Forzadura",
+          "Fecha": "2016-07-12",
+          "Victima": "Vivienda",
+          "Subvictima": "No Aplica",
+          "Edad": "Mayor de Edad",
+          "Genero": "Mujer",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Cartago",
+          "Canton": "Cartago",
+          "Distrito": "San Francisco"
+      },
+
+      {
+          "Delito": "Robo",
+          "Subdelito": "Ruptura Ventana",
+          "Fecha": "2016-07-20",
+          "Victima": "Vivienda",
+          "Subvictima": "No Aplica",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Puntarenas",
+          "Canton": "Corredores",
+          "Distrito": "La Cuesta"
+      }
+],
+
+"Agosto":[
+      {
+          "Delito": "Tacha de Vehiculo",
+          "Subdelito": "Tacha de Vehiculo",
+          "Fecha": "2016-08-01",
+          "Victima": "Vehiculo",
+          "Subvictima": "Automovil",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Cartago",
+          "Canton": "Cartago",
+          "Distrito": "Cartago"
+      },
+
+      {
+          "Delito": "Tacha de Vehiculo",
+          "Subdelito": "Tacha de Vehiculo",
+          "Fecha": "2016-08-04",
+          "Victima": "Vehiculo",
+          "Subvictima": "Automovil",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "San Jose",
+          "Canton": "Santa Ana",
+          "Distrito": "Santa Ana"
+      },
+
+      {
+          "Delito": "Robo de Vehiculo",
+          "Subdelito": "Asalto",
+          "Fecha": "2016-08-04",
+          "Victima": "Vehiculo",
+          "Subvictima": "Motocicleta",
+          "Edad": "Menor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Limon",
+          "Canton": "Limon",
+          "Distrito": "Limon"
+      },
+
+      {
+          "Delito": "Robo",
+          "Subdelito": "Ruptura Ventana",
+          "Fecha": "2016-08-11",
+          "Victima": "Edificacion",
+          "Subvictima": "Indeterminado",
+          "Edad": "Mayor de Edad",
+          "Genero": "Mujer",
+          "Nacionalidad": "Holanda",
+          "Provincia": "Puntarenas",
+          "Canton": "Puntarenas",
+          "Distrito": "Cobano"
+      },
+
+      {
+          "Delito": "Robo",
+          "Subdelito": "Ruptura Ventana",
+          "Fecha": "2016-08-12",
+          "Victima": "Vivienda",
+          "Subvictima": "No Aplica",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Guanacaste",
+          "Canton": "Santa Cruz",
+          "Distrito": "Cabo Velas"
+      },
+
+      {
+          "Delito": "Homicidio",
+          "Subdelito": "Discusion",
+          "Fecha": "2016-08-22",
+          "Victima": "Persona",
+          "Subvictima": "Peaton",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Puntarenas",
+          "Canton": "Osa",
+          "Distrito": "Bahia Ballena"
+      },
+
+      {
+          "Delito": "Homicidio",
+          "Subdelito": "Discusion",
+          "Fecha": "2016-08-30",
+          "Victima": "Persona",
+          "Subvictima": "Indeterminado",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Guanacaste",
+          "Canton": "Liberia",
+          "Distrito": "Liberia"
+      },
+
+      {
+          "Delito": "Robo",
+          "Subdelito": "Boquete",
+          "Fecha": "2016-08-24",
+          "Victima": "Edificacion",
+          "Subvictima": "Indeterminado",
+          "Edad": "Mayor de edad",
+          "Genero": "Mujer",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Cartago",
+          "Canton": "Cartago",
+          "Distrito": "Tejar"
+      },
+
+      {
+          "Delito": "Asalto",
+          "Subdelito": "Intimidacion Verbal",
+          "Fecha": "2016-08-24",
+          "Victima": "Persona",
+          "Subvictima": "Peaton",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Desconocido",
+          "Provincia": "San Jose",
+          "Canton": "San Jose",
+          "Distrito": "Carmen"
+      },
+
+      {
+          "Delito": "Asalto",
+          "Subdelito": "Intimidacion Verbal",
+          "Fecha": "2016-08-17",
+          "Victima": "Persona",
+          "Subvictima": "Peaton",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Heredia",
+          "Canton": "Heredia",
+          "Distrito": "Heredia"
+      }
+    ],
+
+"Septiembre":[
+      {
+          "Delito": "Tacha de Vehiculo",
+          "Subdelito": "Tacha de Vehiculo",
+          "Fecha": "2016-09-01",
+          "Victima": "Vehiculo",
+          "Subvictima": "Motocicleta",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "San Jose",
+          "Canton": "San Jose",
+          "Distrito": "Hospital"
+      },
+
+      {
+          "Delito": "Tacha de Vehiculo",
+          "Subdelito": "Tacha de Vehiculo",
+          "Fecha": "2016-09-03",
+          "Victima": "Vehiculo",
+          "Subvictima": "Automovil",
+          "Edad": "Mayor de Edad",
+          "Genero": "Mujer",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Alajuela",
+          "Canton": "San Carlos",
+          "Distrito": "San Carlos"
+      },
+
+      {
+          "Delito": "Homicidio",
+          "Subdelito": "Ajuste de cuentas ",
+          "Fecha": "2016-09-10",
+          "Victima": "Persona",
+          "Subvictima": "Peaton",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Puntarenas",
+          "Canton": "Quepos",
+          "Distrito": "Quepos"
+      },
+
+      {
+          "Delito": "Homicidio",
+          "Subdelito": "Femicidio",
+          "Fecha": "2016-09-15",
+          "Victima": "Persona",
+          "Subvictima": "Peaton",
+          "Edad": "Mayor de Edad",
+          "Genero": "Mujer",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Heredia",
+          "Canton": "Santa Barbara",
+          "Distrito": "Puraba"
+      },
+
+      {
+          "Delito": "Robo",
+          "Subdelito": "No Determinado",
+          "Fecha": "2016-09-18",
+          "Victima": "Persona",
+          "Subvictima": "Drogadicto",
+          "Edad": "Desconocido",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "San Jose",
+          "Canton": "Santa Ana",
+          "Distrito": "Pozos"
+      },
+
+      {
+          "Delito": "Asalto",
+          "Subdelito": "Golpes",
+          "Fecha": "2016-09-23",
+          "Victima": "Persona",
+          "Subvictima": "Peaton",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Nicaragua",
+          "Provincia": "Puntarenas",
+          "Canton": "Esparza",
+          "Distrito": "San Juan Grande"
+      },
+
+      {
+          "Delito": "Asalto",
+          "Subdelito": "Golpes",
+          "Fecha": "2016-09-26",
+          "Victima": "Persona",
+          "Subvictima": "Peaton",
+          "Edad": "Mayor de Edad",
+          "Genero": "Mujer",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "San Jose",
+          "Canton": "Goicoechea",
+          "Distrito": "Guadalupe"
+      },
+
+      {
+          "Delito": "Asalto",
+          "Subdelito": "Arrebato",
+          "Fecha": "2016-09-24",
+          "Victima": "Persona",
+          "Subvictima": "Mensajero",
+          "Edad": "Mayor de edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Desconocido",
+          "Provincia": "Santa Ana",
+          "Canton": "Santa Ana",
+          "Distrito": "Santa Ana"
+      },
+
+      {
+          "Delito": "Asalto",
+          "Subdelito": "Intimidacion Verbal",
+          "Fecha": "2016-09-29",
+          "Victima": "Persona",
+          "Subvictima": "Peaton",
+          "Edad": "Mayor de Edad",
+          "Genero": "Mujer",
+          "Nacionalidad": "Desconocido",
+          "Provincia": "San Jose",
+          "Canton": "Perez Zeledon",
+          "Distrito": "San Isidro de el General"
+      },
+
+      {
+          "Delito": "Asalto",
+          "Subdelito": "Arma de Fuego",
+          "Fecha": "2016-09-14",
+          "Victima": "Vehiculo",
+          "Subvictima": "Furgon",
+          "Edad": "Mayor de Edad",
+          "Genero": "Hombre",
+          "Nacionalidad": "Costa Rica",
+          "Provincia": "Limon",
+          "Canton": "Limon",
+          "Distrito": "Limon"
+      }
+    ],
+    "Octubre":[
+          {
+              "Delito": "Asalto",
+              "Subdelito": "Arma Blanca",
+              "Fecha": "2016-10-01",
+              "Victima": "Persona",
+              "Subvictima": "Peaton",
+              "Edad": "Mayor de Edad",
+              "Genero": "Hombre",
+              "Nacionalidad": "Costa Rica",
+              "Provincia": "Limon",
+              "Canton": "Siquirres",
+              "Distrito": "Siquirres"
+          },
+
+          {
+              "Delito": "Asalto",
+              "Subdelito": "Arma Blanca",
+              "Fecha": "2016-10-02",
+              "Victima": "Persona",
+              "Subvictima": "Peaton",
+              "Edad": "Mayor de Edad",
+              "Genero": "Mujer",
+              "Nacionalidad": "Nicaragua",
+              "Provincia": "San Jose",
+              "Canton": "San Jose",
+              "Distrito": "Merced"
+          },
+
+          {
+              "Delito": "Asalto",
+              "Subdelito": "Arrebato",
+              "Fecha": "2016-10-12",
+              "Victima": "Persona",
+              "Subvictima": "Peaton",
+              "Edad": "Mayor de Edad",
+              "Genero": "Mujer",
+              "Nacionalidad": "Costa Rica",
+              "Provincia": "San Jose",
+              "Canton": "Perez Zeledon",
+              "Distrito": "San Isidro de el General"
+          },
+
+          {
+              "Delito": "Hurto",
+              "Subdelito": "Carterista",
+              "Fecha": "2016-10-18",
+              "Victima": "Persona",
+              "Subvictima": "Usuario Servicio Publico",
+              "Edad": "Mayor de Edad",
+              "Genero": "Mujer",
+              "Nacionalidad": "Costa Rica",
+              "Provincia": "San Jose",
+              "Canton": "Perez Zeledon",
+              "Distrito": "San Isidro de el General"
+          },
+
+          {
+              "Delito": "Hurto",
+              "Subdelito": "Carterista",
+              "Fecha": "2016-10-17",
+              "Victima": "Persona",
+              "Subvictima": "Pasajero de Transporte",
+              "Edad": "Mayor de Edad",
+              "Genero": "Hombre",
+              "Nacionalidad": "Costa Rica",
+              "Provincia": "San Jose",
+              "Canton": "San Jose",
+              "Distrito": "Desconocido"
+          },
+
+          {
+              "Delito": "Hurto",
+              "Subdelito": "Con llave",
+              "Fecha": "2016-10-23",
+              "Victima": "Viviendo",
+              "Subvictima": "No Aplica",
+              "Edad": "Mayor de Edad",
+              "Genero": "Hombre",
+              "Nacionalidad": "Costa Rica",
+              "Provincia": "Guanacaste",
+              "Canton": "Liberia",
+              "Distrito": "Liberia"
+          },
+
+          {
+              "Delito": "Hurto",
+              "Subdelito": "Con llave",
+              "Fecha": "2016-10-24",
+              "Victima": "Edificacion",
+              "Subvictima": "Bodega",
+              "Edad": "Mayor de Edad",
+              "Genero": "Hombre",
+              "Nacionalidad": "Costa Rica",
+              "Provincia": "Guanacaste",
+              "Canton": "Santa Cruz",
+              "Distrito": "Santa Cruz"
+          },
+
+          {
+              "Delito": "Robo",
+              "Subdelito": "Boquete",
+              "Fecha": "2016-10-27",
+              "Victima": "Edificacion",
+              "Subvictima": "Centro Educativo",
+              "Edad": "Mayor de edad",
+              "Genero": "Hombre",
+              "Nacionalidad": "Costa Rica",
+              "Provincia": "Cartago",
+              "Canton": "Cartago",
+              "Distrito": "San Francisco"
+          },
+
+          {
+              "Delito": "Robo",
+              "Subdelito": "Boquete",
+              "Fecha": "2016-10-28",
+              "Victima": "Edificacion",
+              "Subvictima": "Video Club",
+              "Edad": "Mayor de Edad",
+              "Genero": "Hombre",
+              "Nacionalidad": "Costa Rica",
+              "Provincia": "Alajuela",
+              "Canton": "Los Chiles",
+              "Distrito": "Los Chiles"
+          },
+
+          {
+              "Delito": "Robo de Vehiculo",
+              "Subdelito": "Descuido",
+              "Fecha": "2016-10-29",
+              "Victima": "Vehiculo",
+              "Subvictima": "Automovil",
+              "Edad": "Mayor de Edad",
+              "Genero": "Hombre",
+              "Nacionalidad": "Nicaragua",
+              "Provincia": "Alajuela",
+              "Canton": "Alajuela",
+              "Distrito": "Alajuela"
+          }
+],
+    "Noviembre":[
+          {
+              "Delito": "Asalto",
+              "Subdelito": "Arma Blanca",
+              "Fecha": "2016-11-01",
+              "Victima": "Persona",
+              "Subvictima": "Peaton",
+              "Edad": "Mayor de Edad",
+              "Genero": "Hombre",
+              "Nacionalidad": "Costa Rica",
+              "Provincia": "Guanacaste",
+              "Canton": "Liberia",
+              "Distrito": "Liberia"
+          },
+
+          {
+              "Delito": "Asalto",
+              "Subdelito": "Arma Blanca",
+              "Fecha": "2016-11-05",
+              "Victima": "Persona",
+              "Subvictima": "Peaton",
+              "Edad": "Mayor de Edad",
+              "Genero": "Mujer",
+              "Nacionalidad": "Nicaragua",
+              "Provincia": "Cartago",
+              "Canton": "Paraiso",
+              "Distrito": "Paraiso"
+          },
+
+          {
+              "Delito": "Asalto",
+              "Subdelito": "Arma de Fuego",
+              "Fecha": "2016-11-09",
+              "Victima": "Persona",
+              "Subvictima": "Peaton",
+              "Edad": "Mayor de Edad",
+              "Genero": "Hombre",
+              "Nacionalidad": "Costa Rica",
+              "Provincia": "San Jose",
+              "Canton": "San Jose",
+              "Distrito": "San Sebastian"
+          },
+
+          {
+              "Delito": "Asalto",
+              "Subdelito": "Arma de Fuego",
+              "Fecha": "2016-11-14",
+              "Victima": "Edificacion",
+              "Subvictima": "Tienda",
+              "Edad": "Mayor de Edad",
+              "Genero": "Mujer",
+              "Nacionalidad": "Costa Rica",
+              "Provincia": "San Jose",
+              "Canton": "Alajuelita",
+              "Distrito": "Alajuelita"
+          },
+
+          {
+              "Delito": "Homicidio",
+              "Subdelito": "Discusion",
+              "Fecha": "2016-11-25",
+              "Victima": "Persona",
+              "Subvictima": "Peaton",
+              "Edad": "Desconocido",
+              "Genero": "Hombre",
+              "Nacionalidad": "Costa Rica",
+              "Provincia": "San Jose",
+              "Canton": "Escazu",
+              "Distrito": "San Antonio"
+          },
+
+          {
+              "Delito": "Homicidio",
+              "Subdelito": "No Determinado",
+              "Fecha": "2016-11-30",
+              "Victima": "Persona",
+              "Subvictima": "Indeterminado",
+              "Edad": "Mayor de Edad",
+              "Genero": "Hombre",
+              "Nacionalidad": "Costa Rica",
+              "Provincia": "San Jose",
+              "Canton": "Goicoechea",
+              "Distrito": "Purral"
+          },
+
+          {
+              "Delito": "Hurto",
+              "Subdelito": "Ardid Previo",
+              "Fecha": "2016-11-04",
+              "Victima": "Edificacion",
+              "Subvictima": "Super Mercado",
+              "Edad": "Mayor de Edad",
+              "Genero": "Hombre",
+              "Nacionalidad": "Costa Rica",
+              "Provincia": "Heredia",
+              "Canton": "San Rafael",
+              "Distrito": "San Rafael"
+          },
+
+          {
+              "Delito": "Hurto",
+              "Subdelito": "Ardid Previo",
+              "Fecha": "2016-11-16",
+              "Victima": "Vivienda",
+              "Subvictima": "No Aplica",
+              "Edad": "Adulto Mayor",
+              "Genero": "Mujer",
+              "Nacionalidad": "Costa Rica",
+              "Provincia": "San Jose",
+              "Canton": "San Jose",
+              "Distrito": "San Francisco de Dos Rios"
+          },
+
+          {
+              "Delito": "Robo",
+              "Subdelito": "Boquete",
+              "Fecha": "2016-11-30",
+              "Victima": "Vivienda",
+              "Subvictima": "No Aplica",
+              "Edad": "Mayor de Edad",
+              "Genero": "Hombre",
+              "Nacionalidad": "Costa Rica",
+              "Provincia": "Puntarenas",
+              "Canton": "Quepos",
+              "Distrito": "Quepos"
+          },
+
+          {
+              "Delito": "Robo de Vehiculo",
+              "Subdelito": "Descuido",
+              "Fecha": "2016-11-22",
+              "Victima": "Vehiculo",
+              "Subvictima": "Automovil",
+              "Edad": "Mayor de Edad",
+              "Genero": "Mujer",
+              "Nacionalidad": "Nicaragua",
+              "Provincia": "Puntarenas",
+              "Canton": "Golfito",
+              "Distrito": "Jimenez"
+          }
+        ],
+        "Diciembre":[
+              {
+                  "Delito": "Asalto",
+                  "Subdelito": "Arma Blanca",
+                  "Fecha": "2016-12-01",
+                  "Victima": "Persona",
+                  "Subvictima": "Peaton",
+                  "Edad": "Mayor de Edad",
+                  "Genero": "Desconocido",
+                  "Nacionalidad": "Costa Rica",
+                  "Provincia": "San Jose",
+                  "Canton": "Goicoechea",
+                  "Distrito": "San Francisco"
+              },
+
+              {
+                  "Delito": "Asalto",
+                  "Subdelito": "Arma Blanca",
+                  "Fecha": "2016-12-02",
+                  "Victima": "Persona",
+                  "Subvictima": "Peaton",
+                  "Edad": "Mayor de Edad",
+                  "Genero": "Mujer",
+                  "Nacionalidad": "Costa Rica",
+                  "Provincia": "San Jose",
+                  "Canton": "Montes de Oca",
+                  "Distrito": "San Pedro"
+              },
+
+              {
+                  "Delito": "Asalto",
+                  "Subdelito": "Arrebato",
+                  "Fecha": "2016-12-06",
+                  "Victima": "Persona",
+                  "Subvictima": "Peaton",
+                  "Edad": "Mayor de Edad",
+                  "Genero": "Hombre",
+                  "Nacionalidad": "Costa Rica",
+                  "Provincia": "San Jose",
+                  "Canton": "San Jose",
+                  "Distrito": "Pavas"
+              },
+
+              {
+                  "Delito": "Asalto",
+                  "Subdelito": "Arrebato",
+                  "Fecha": "2016-12-08",
+                  "Victima": "Persona",
+                  "Subvictima": "Pasajero de Transporte",
+                  "Edad": "Mayor de Edad",
+                  "Genero": "Mujer",
+                  "Nacionalidad": "Costa Rica",
+                  "Provincia": "San Jose",
+                  "Canton": "Montes de Oca",
+                  "Distrito": "San Pedro"
+              },
+
+              {
+                  "Delito": "Homicidio",
+                  "Subdelito": "Ajuste de Cuentas",
+                  "Fecha": "2016-12-11",
+                  "Victima": "Persona",
+                  "Subvictima": "Indeterminado",
+                  "Edad": "Mayor de Edad",
+                  "Genero": "Hombre",
+                  "Nacionalidad": "Costa Rica",
+                  "Provincia": "Limon",
+                  "Canton": "Pococi",
+                  "Distrito": "Jimenez"
+              },
+
+              {
+                  "Delito": "Homicidio",
+                  "Subdelito": "Discusion",
+                  "Fecha": "2016-12-24",
+                  "Victima": "Persona",
+                  "Subvictima": "Peaton",
+                  "Edad": "Mayor de Edad",
+                  "Genero": "Hombre",
+                  "Nacionalidad": "Costa Rica",
+                  "Provincia": "Alajuela",
+                  "Canton": "Alajuela",
+                  "Distrito": "Alajuela"
+              },
+
+              {
+                  "Delito": "Hurto",
+                  "Subdelito": "Ardid Previo",
+                  "Fecha": "2016-12-17",
+                  "Victima": "Edificacion",
+                  "Subvictima": "Tienda",
+                  "Edad": "Mayor de Edad",
+                  "Genero": "Mujer",
+                  "Nacionalidad": "Costa Rica",
+                  "Provincia": "Heredia",
+                  "Canton": "San Rafael",
+                  "Distrito": "San Rafael"
+              },
+
+              {
+                  "Delito": "Hurto",
+                  "Subdelito": "Con llave",
+                  "Fecha": "2016-12-21",
+                  "Victima": "Vivienda",
+                  "Subvictima": "No Aplica",
+                  "Edad": "Mayor de Edad",
+                  "Genero": "Hombre",
+                  "Nacionalidad": "Colombia",
+                  "Provincia": "San Jose",
+                  "Canton": "Mora",
+                  "Distrito": "Colon"
+              },
+
+              {
+                  "Delito": "Hurto",
+                  "Subdelito": "Por Descuido",
+                  "Fecha": "2016-12-18",
+                  "Victima": "Persona",
+                  "Subvictima": "Peaton",
+                  "Edad": "Mayor de Edad",
+                  "Genero": "Hombre",
+                  "Nacionalidad": "Costa Rica",
+                  "Provincia": "San Jose",
+                  "Canton": "San Jose",
+                  "Distrito": "Catedral"
+              },
+
+              {
+                  "Delito": "Robo",
+                  "Subdelito": "Boquete",
+                  "Fecha": "2016-12-28",
+                  "Victima": "Edificacion",
+                  "Subvictima": "Bar",
+                  "Edad": "Mayor de Edad",
+                  "Genero": "Hombre",
+                  "Nacionalidad": "Costa Rica",
+                  "Provincia": "Cartago",
+                  "Canton": "Paraiso",
+                  "Distrito": "Paraiso"
+              }
+    ]
   }
 }
